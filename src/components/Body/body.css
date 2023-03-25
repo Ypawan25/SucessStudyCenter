@@ -5,21 +5,38 @@
 }
 
 .container{
-    
-    
-    border: 1px solid red;
+    /* border: 1px solid red; */
     position: absolute;
     top: 80px;
     margin: auto;
-    display: flex;
-    align-items: center;
+    /* display: flex;
+    align-items: center; */
     margin-left: 100px;
+    z-index: 1;
 }
 .images{
     width: 400px;
-    height: 300px;
+    height: 200px;
     margin: auto;
-    /* display: flex;
-    align-items: center; */
+    display: flex;
+    align-items: center;
     
+}
+
+marquee{
+    /* background-color: rgb(150, 143, 143); */
+    width: 100%;
+    color: red;
+}
+
+ul{
+    background-color: rgb(152, 202, 185);
+    width: 45%;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.details{
+display: flex;
+justify-content: space-around;
 }
