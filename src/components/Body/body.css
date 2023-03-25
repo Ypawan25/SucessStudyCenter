@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    /* border: 1px solid green; */
+}
+
+.container{
+    
+    
+    border: 1px solid red;
+    position: absolute;
+    top: 80px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+.images{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    /* display: flex;
+    align-items: center; */
+    
+}
