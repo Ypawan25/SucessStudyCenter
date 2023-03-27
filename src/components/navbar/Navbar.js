@@ -11,9 +11,9 @@ export default function Navbar() {
     </button>
     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div className="navbar-nav">
-        <a className="nav-link active" aria-current="page" href="#navbar">Home</a>
+        <a className="nav-link " href="#navbar">Home</a>
         <a className="nav-link" href="#navbar">Features</a>
-        <a className="nav-link" href="#navbar">Contact</a>
+        <a className="nav-link" href="#footer">Contact</a>
        
       </div>
     </div>

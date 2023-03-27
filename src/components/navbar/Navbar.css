@@ -7,6 +7,11 @@
     top: 0;
     left:0;
     width: 100%;
-    background-color:  rgb(150, 143, 143);
+    background-color:  #002B5B;
+    
     z-index: 4;
+    margin-bottom: 20px;
+}
+.nav-link{
+    color:beige;
 }
